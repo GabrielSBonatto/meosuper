@@ -1,0 +1,5 @@
+- Rom cho s01
+- App s01
+- BootScreen s01
+- Baseband S01
+- v.v...
